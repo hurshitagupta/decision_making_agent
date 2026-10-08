@@ -1,0 +1,11 @@
+Sensitivity Analysis
+-----------------------------------------------------------------
+{'criterion': 'cost', 'new_weight': 0.2, 'winner': 'vendor_b', 'winner_score': 7.0, 'winner_changed': True}
+{'criterion': 'cost', 'new_weight': 0.6, 'winner': 'vendor_a', 'winner_score': 7.4, 'winner_changed': False}
+{'criterion': 'speed', 'new_weight': 0.2, 'winner': 'vendor_a', 'winner_score': 7.257, 'winner_changed': False}
+{'criterion': 'speed', 'new_weight': 0.6, 'winner': 'vendor_b', 'winner_score': 7.571, 'winner_changed': True}
+{'criterion': 'risk', 'new_weight': 0.2, 'winner': 'vendor_a', 'winner_score': 7.114, 'winner_changed': False}
+{'criterion': 'risk', 'new_weight': 0.6, 'winner': 'vendor_a', 'winner_score': 7.057, 'winner_changed': False}
+
+Conclusion:
+The sensitivity analysis shows that changing criterion weights can change the highest-scoring vendor. Therefore, weight selection should reflect the actual decision priorities.

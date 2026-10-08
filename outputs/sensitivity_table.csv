@@ -1,0 +1,7 @@
+criterion,new_weight,winner,winner_score,winner_changed
+cost,0.2,vendor_b,7.0,True
+cost,0.6,vendor_a,7.4,False
+speed,0.2,vendor_a,7.257,False
+speed,0.6,vendor_b,7.571,True
+risk,0.2,vendor_a,7.114,False
+risk,0.6,vendor_a,7.057,False

@@ -1,0 +1,1 @@
+The sensitivity analysis shows that changing criterion weights can change the highest-scoring vendor. Therefore, weight selection should reflect the actual decision priorities.
