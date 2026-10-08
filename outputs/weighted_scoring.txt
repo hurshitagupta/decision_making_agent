@@ -1,0 +1,5 @@
+Weights: {'cost': 0.4, 'speed': 0.3, 'risk': 0.3}
+Weighted Scores:
+vendor_a: 7.1
+vendor_b: 6.5
+vendor_c: 3.6
