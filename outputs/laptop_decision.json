@@ -1,0 +1,67 @@
+{
+  "weights": {
+    "performance": 0.4,
+    "cost": 0.3,
+    "battery": 0.2,
+    "portability": 0.1
+  },
+  "weight_justification": {
+    "performance": "Important for coding and development",
+    "cost": "Helps maintain affordability",
+    "battery": "Supports working without charging",
+    "portability": "Useful for travel"
+  },
+  "options": [
+    {
+      "name": "Laptop A",
+      "performance": 9,
+      "cost": 8,
+      "battery": 8,
+      "portability": 7
+    },
+    {
+      "name": "Laptop B",
+      "performance": 7,
+      "cost": 9,
+      "battery": 7,
+      "portability": 8
+    },
+    {
+      "name": "Laptop C",
+      "performance": 8,
+      "cost": 7,
+      "battery": 9,
+      "portability": 6
+    },
+    {
+      "name": "Laptop D",
+      "performance": 6,
+      "cost": 8,
+      "battery": 6,
+      "portability": 9
+    }
+  ],
+  "decision": {
+    "outcome": "choose",
+    "selected": "Laptop A",
+    "ranking": [
+      [
+        8.3,
+        "Laptop A"
+      ],
+      [
+        7.7,
+        "Laptop B"
+      ],
+      [
+        7.7,
+        "Laptop C"
+      ],
+      [
+        6.9,
+        "Laptop D"
+      ]
+    ],
+    "reason": "Laptop A is the clear winner"
+  }
+}

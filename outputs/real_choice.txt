@@ -1,0 +1,9 @@
+Laptop Selection Results
+Laptop A: 8.3
+Laptop B: 7.7
+Laptop C: 7.7
+Laptop D: 6.9
+
+Outcome: choose
+Selected: Laptop A
+Reason: Laptop A is the clear winner
