@@ -1,0 +1,65 @@
+Logged: choose | Reason: vendor_a meets the minimum score and margin
+Logged: reject_all | Reason: All options are below the minimum score
+Logged: ask_human | Reason: Top two options are too close to call
+
+Saved Decision Logs:
+{
+  "timestamp": "2026-10-08T12:33:58.813840+00:00",
+  "outcome": "choose",
+  "selected": "vendor_a",
+  "ranking": [
+    [
+      7.1,
+      "vendor_a"
+    ],
+    [
+      6.5,
+      "vendor_b"
+    ],
+    [
+      3.6,
+      "vendor_c"
+    ]
+  ],
+  "reason": "vendor_a meets the minimum score and margin"
+}
+{
+  "timestamp": "2026-10-08T12:33:58.832854+00:00",
+  "outcome": "reject_all",
+  "selected": null,
+  "ranking": [
+    [
+      7.1,
+      "vendor_a"
+    ],
+    [
+      6.5,
+      "vendor_b"
+    ],
+    [
+      3.6,
+      "vendor_c"
+    ]
+  ],
+  "reason": "All options are below the minimum score"
+}
+{
+  "timestamp": "2026-10-08T12:33:58.842092+00:00",
+  "outcome": "ask_human",
+  "selected": null,
+  "ranking": [
+    [
+      7.1,
+      "vendor_a"
+    ],
+    [
+      6.5,
+      "vendor_b"
+    ],
+    [
+      3.6,
+      "vendor_c"
+    ]
+  ],
+  "reason": "Top two options are too close to call"
+}

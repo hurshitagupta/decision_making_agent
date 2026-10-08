@@ -1,0 +1,10 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.13, pytest-9.1.1, pluggy-1.6.0
+rootdir: C:\Users\Hurshita Gupta\OneDrive\Desktop\decision_making_agent
+configfile: pyproject.toml
+plugins: anyio-4.15.1
+collected 10 items
+
+tests\test_decision_log.py ..........                                    [100%]
+
+============================= 10 passed in 1.06s ==============================
