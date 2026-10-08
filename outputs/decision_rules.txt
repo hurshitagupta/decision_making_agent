@@ -1,0 +1,8 @@
+CASE 1: Clear winner
+Decision(outcome='choose', selected='vendor_a', ranking=[(7.1, 'vendor_a'), (6.5, 'vendor_b'), (3.6, 'vendor_c')], reason='vendor_a meets the minimum score and margin')
+
+CASE 2: Reject all
+Decision(outcome='reject_all', selected=None, ranking=[(7.1, 'vendor_a'), (6.5, 'vendor_b'), (3.6, 'vendor_c')], reason='All options are below the minimum score')
+
+CASE 3: Ask human
+Decision(outcome='ask_human', selected=None, ranking=[(7.1, 'vendor_a'), (6.5, 'vendor_b'), (3.6, 'vendor_c')], reason='Top two options are too close to call')
